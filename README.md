@@ -8,5 +8,5 @@ Lo primero que debemos hacer para poder explotar esta brecha de seguridad es dir
 
 **Paso 2:**
 Una vez dentro
-<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover1.png">
-<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover1.png">
+<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover2.png">
+<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover3.png">
