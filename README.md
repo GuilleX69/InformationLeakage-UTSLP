@@ -5,3 +5,5 @@ Lo primero que debemos hacer para poder explotar esta brecha de seguridad en la 
 
 
 <img src="https://raw.githubusercontent.com/GuilleX69/InformationLeakage-UTSLP/images/Discover1.png">
+<img src="https://raw.githubusercontent.com/GuilleX69/InformationLeakage-UTSLP/images/Discover2.png">
+<img src="https://raw.githubusercontent.com/GuilleX69/InformationLeakage-UTSLP/images/Discover3.png">
