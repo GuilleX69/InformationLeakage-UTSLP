@@ -4,6 +4,6 @@ POC de como filtrar informacion de estudiantes de la Universidad Tecnologica de 
 Lo primero que debemos hacer para poder explotar esta brecha de seguridad en la plataforma,
 
 
-<img src="https://raw.githubusercontent.com/GuilleX69/InformationLeakage-UTSLP/images/Discover1.png">
-<img src="https://raw.githubusercontent.com/GuilleX69/InformationLeakage-UTSLP/images/Discover2.png">
-<img src="https://raw.githubusercontent.com/GuilleX69/InformationLeakage-UTSLP/images/Discover3.png">
+<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover1.png">
+<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover1.png">
+<img src="https://github.com/GuilleX69/InformationLeakage-UTSLP/blob/main/images/Discover1.png">
