@@ -1,7 +1,7 @@
 # InformationLeakage-UTSLP
 POC de como filtrar informacion de estudiantes de la Universidad Tecnologica de San Luis Potosi sin estar autenticado en la plataforma, mediante una consulta con la matricula que otorga la universidad a los estudiantes podemos acceder a informacion del estudiante como:
 
--Domicilio
+-Domicilio \n
 -Numero celular
 -Correo electronico
 -Codigo Postal de Residencia
